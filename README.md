@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phân biệt Website và Trang web</title>
+</head>
+<body>
+
+  <h1>Bảng phân biệt các khái niệm Web</h1>
+
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Khái niệm</th>
+        <th>Giải thích</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Website</strong></td>
+        <td>Là một tập hợp gồm nhiều trang web thành phần, hình ảnh, video và các tài nguyên số khác, được lưu trữ cùng nhau trên một máy chủ và truy cập qua một tên miền chung (Ví dụ: website của trường học).</td>
+      </tr>
+      <tr>
+        <td><strong>Trang web (Webpage)</strong></td>
+        <td>Là một đơn vị nội dung cụ thể, một trang đơn lẻ nằm bên trong website và có đường dẫn (URL) dẫn trực tiếp riêng biệt (Ví dụ: trang tuyển sinh nằm trong website trường).</td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
+
